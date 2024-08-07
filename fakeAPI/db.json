@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "e45t",
+      "email": "Xalal@gmail.com",
+      "name": "Go'sht",
+      "sername": "Xalal",
+      "password": "ftn"
+    }
+  ],
+  "cards": [
+    {
+      "img": "/Group 14.png"
+    },
+    {
+      "img": "/Group 15.png"
+    },
+    {
+      "img": "/Group 16.png"
+    },
+    {
+      "img": "/Group 17.png"
+    }
+  ],
+  "transaction": [
+    {
+      "userid": "e45t",
+      "id": "148",
+      "koshelok": "VISA",
+      "category": "AVTO",
+      "summa": "453000",
+      "when": "22:19"
+    },
+    {
+      "userid": "e45t",
+      "id": "2",
+      "koshelok": "VISA",
+      "category": "AVTO",
+      "summa": "453000",
+      "when": "22:19"
+    },
+    {
+      "userid": "e45t",
+      "id": "16",
+      "koshelok": "VISA",
+      "category": "AVTO",
+      "summa": "453000",
+      "when": "22:19"
+    }
+  ]
+}
